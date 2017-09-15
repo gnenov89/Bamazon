@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Biding App",
+  "main": "customer.js",
+  "scripts": {
+    "test": "Testy, Testy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnenov89/Bamazon.git"
+  },
+  "keywords": [
+    "Bying",
+    "maschine"
+  ],
+  "author": "G Nenov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnenov89/Bamazon/issues"
+  },
+  "homepage": "https://github.com/gnenov89/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2",
+    "mysql": "^2.14.1",
+    "prompt": "^1.0.0"
+  }
+}
